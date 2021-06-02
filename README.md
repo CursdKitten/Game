@@ -28,11 +28,12 @@ This game makes use of the following libraries:
 ## Contributors names and contact info
 
 Tel: 071 872 0132
+
 Email: forrestermkirsten@gmail.com
 
 
 ## Acknowledgments
 * Example code provided by HyperionDev
-* https://stackoverflow.com/questions/11365052/moving-an-object-left-and-right
+* Assistance on the arrow keys: https://stackoverflow.com/questions/11365052/moving-an-object-left-and-right
 
 
